@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDoApp-React/static/css/main.4d2d48e7.chunk.css",
+    "main.js": "/ToDoApp-React/static/js/main.bc897851.chunk.js",
+    "main.js.map": "/ToDoApp-React/static/js/main.bc897851.chunk.js.map",
+    "runtime~main.js": "/ToDoApp-React/static/js/runtime~main.df81f5ae.js",
+    "runtime~main.js.map": "/ToDoApp-React/static/js/runtime~main.df81f5ae.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/ToDoApp-React/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/ToDoApp-React/static/js/2.a2b181a3.chunk.js.map",
+    "index.html": "/ToDoApp-React/index.html",
+    "precache-manifest.1ca3ae0498c76ed18ae602c9186cf59b.js": "/ToDoApp-React/precache-manifest.1ca3ae0498c76ed18ae602c9186cf59b.js",
+    "service-worker.js": "/ToDoApp-React/service-worker.js",
+    "static/css/main.4d2d48e7.chunk.css.map": "/ToDoApp-React/static/css/main.4d2d48e7.chunk.css.map"
+  }
+}
